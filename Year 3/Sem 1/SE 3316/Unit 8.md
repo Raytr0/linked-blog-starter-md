@@ -28,4 +28,7 @@ Used as a model by many countries to from their own privacy regulation
 Right to be forgotten
 
 ### IP and Fair use
+Aims to give monopoly to creators for a certain period of time
+Monopoly is bad, but this is done to incentivize creators
 ### DMCA Laws/Policy
+
